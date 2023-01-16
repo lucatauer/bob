@@ -1,2 +1,4 @@
 # Bob
-Bob can answer some questions and solve some math problems for you
+Bob can answer some questions and solve some math problems for you.
+
+Implementation following soon
